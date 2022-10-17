@@ -19,7 +19,6 @@
 ### The challenge
 
 
-### Screenshot
 
 
 
