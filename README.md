@@ -16,7 +16,6 @@
 
 ## Overview
 
-### The challenge
 
 
 
