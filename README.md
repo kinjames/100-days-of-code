@@ -43,7 +43,7 @@
 The designs were created to the following widths:
 
 - Mobile: 375px
-- Desktop: 1140px
+- Desktop: 1440px
 
 ## Author
 
